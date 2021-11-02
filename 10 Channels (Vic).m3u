@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="file:///private/var/mobile/Containers/Data/Application/E4610344-2B29-4C9C-964E-D21FB8820693/tmp/A23E50CF-8609-4DE5-92CD-6C4328B8CB78.png",10 Shake
+https://dai.google.com/linear/hls/event/NFs6K84rS1e8e0DtWjKIvQ/master.m3u8
+#EXTINF:-1 tvg-logo="file:///private/var/mobile/Containers/Data/Application/E4610344-2B29-4C9C-964E-D21FB8820693/tmp/5691C044-0256-40FC-AB23-2A0C006F37B6.png",10 Peach 
+https://dai.google.com/linear/hls/event/lpej3mYjS86kyzomBIkyng/master.m3u8
+#EXTINF:-1 tvg-logo="file:///private/var/mobile/Containers/Data/Application/E4610344-2B29-4C9C-964E-D21FB8820693/tmp/324937BB-1385-4845-A314-118F3F6491DD.png",10 BOLD
+https://dai.google.com/linear/hls/event/g0vxZF8uTCCD8bKoA4nySQ/master.m3u8
+#EXTINF:-1 tvg-logo="file:///private/var/mobile/Containers/Data/Application/E4610344-2B29-4C9C-964E-D21FB8820693/tmp/894A8199-2F79-4D3B-ADE4-99840AE00099.png",10
+https://dai.google.com/linear/hls/event/52M7ojCHQCy4vEFD7YTPpQ/master.m3u8
